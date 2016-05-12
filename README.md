@@ -38,3 +38,6 @@ https://buildall.github.io/2015/12/09/frontendvim/
 http://ebook.designiot.cn/   
 https://github.com/phodal/growth-ebook
 
+### go语言入门
+https://zengweigang.gitbooks.io/core-go/content/eBook/12.1.html
+
