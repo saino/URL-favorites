@@ -1,7 +1,7 @@
 # URL-favorites
-平时会用到的网址呦
+平时会用到的网址
 
-### 帮我第一次翻墙的网(很赞哦)
+### 帮我第一次翻墙的网(很赞)
 http://secure.wormholelab.com/index.php
 
 ### JS移动设备图片画廊,模拟原生滑动交互
@@ -40,4 +40,19 @@ https://github.com/phodal/growth-ebook
 
 ### go语言入门
 https://zengweigang.gitbooks.io/core-go/content/eBook/12.1.html
+
+### Golang新开发者要注意的陷阱和常见错误
+http://www.open-open.com/lib/view/open1441617812492.html
+
+### Marionettejs 全面介绍 (1)
+https://zhuanlan.zhihu.com/p/19861173
+
+### TodoMVC中的Backbone+MarionetteJS+RequireJS例子源码分析之一
+http://www.cnblogs.com/fastmover/p/4285155.html
+
+### 过目不忘JS正则表达式
+http://www.cnblogs.com/moqing/p/5665126.html
+
+### Vim十大必备插件
+http://www.open-open.com/lib/view/open1414227253419.html
 
