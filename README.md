@@ -59,3 +59,15 @@ http://www.cnblogs.com/moqing/p/5665126.html
 ### Vim十大必备插件
 http://www.open-open.com/lib/view/open1414227253419.html
 
+
+                这些是项目框架的学习资料
+
+https://github.com/davezuko/react-redux-starter-kit
+https://react-guide.github.io/react-router-cn/index.html
+https://github.com/camsong/redux-in-chinese
+可以参照第二种方法安装chrome redux dev tool: 
+https://github.com/zalmoxisus/redux-devtools-extension
+
+
+
+
