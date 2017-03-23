@@ -68,6 +68,9 @@ https://github.com/camsong/redux-in-chinese
 可以参照第二种方法安装chrome redux dev tool: 
 https://github.com/zalmoxisus/redux-devtools-extension
 
+免费外网穿透内网服务器
+https://www.ngrok.cc/
+
 
 
 
