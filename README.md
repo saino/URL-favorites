@@ -4,6 +4,9 @@
 ###react全家桶系列
 http://blog.csdn.net/awaw00/article/category/6692955
 
+###react路由过渡动画
+http://www.cnblogs.com/284628487a/p/6416113.html
+
 ### 帮我第一次翻墙的网(很赞)
 http://secure.wormholelab.com/index.php
 
